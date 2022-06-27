@@ -6,5 +6,6 @@ Write a classifier (deep neural network – CNN) in any language and framework t
 
 DATASET EXAMPLES:
 
+![image](https://user-images.githubusercontent.com/16772052/175969705-a6a5b5d3-10ea-4f13-bcb7-1f7334628bc9.png)
 
 ![image](https://user-images.githubusercontent.com/16772052/175968798-a8c4d5e7-2545-4e26-8cbc-e52b9e224f08.png)
