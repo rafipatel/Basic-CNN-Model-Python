@@ -1,5 +1,5 @@
 # Basic-CNN-Model-Python
-An image recognition model using Convolutional Neural Networks(CNN), to predict whether the image is a rectangle or a circle.
+An image recognition model using Convolutional Neural Networks(CNN) with a Sequential architecture, to predict whether the image is a rectangle or a circle.
 
 TASK QUESTION:-
 Write a classifier (deep neural network – CNN) in any language and framework to identify “rectangles” from “circles” (the dataset is in repository).
